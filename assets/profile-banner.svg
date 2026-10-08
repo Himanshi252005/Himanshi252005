@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Himanshi Rathore — Data Science, AI and Product Analytics</title>
+<desc id="desc">A dark navy professional profile banner with teal and violet accents.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#142342"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#2DD4BF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+</defs>
+<rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+<circle cx="1104" cy="30" r="194" fill="#2DD4BF" opacity=".08"/>
+<circle cx="1000" cy="250" r="160" fill="#A78BFA" opacity=".1"/>
+<path d="M0 244 C250 174 370 274 620 220 S970 156 1200 220" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".3"/>
+<rect x="64" y="54" width="56" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="64" y="125" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Himanshi Rathore</text>
+<text x="64" y="174" fill="#9FE7E1" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600">Data Science · AI Applications · Product Analytics</text>
+<text x="64" y="219" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="18">Building useful products from data, experimentation and thoughtful engineering.</text>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".6"><rect x="920" y="83" width="150" height="109" rx="18"/><circle cx="951" cy="116" r="7"/><circle cx="1038" cy="116" r="7"/><circle cx="994" cy="159" r="7"/><path d="M958 116h73M954 122l35 31m44-31-35 31"/></g>
+</svg>
